@@ -118,6 +118,9 @@
       <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Models\Parametro.vb" />
+    <Compile Include="Models\Provedoresapi.vb" />
+    <Compile Include="Models\Proveedor.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
